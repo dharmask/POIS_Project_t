@@ -1,0 +1,5 @@
+fastapi==0.135.2
+uvicorn==0.42.0
+pytest==9.0.2
+matplotlib==3.10.8
+numpy==2.4.4
